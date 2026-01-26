@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0066-plus-one](https://github.com/Vansh27189/Leet-Code/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Vansh27189/Leet-Code/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Vansh27189/Leet-Code/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/Vansh27189/Leet-Code/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Vansh27189/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vansh27189/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vansh27189/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Vansh27189/Leet-Code/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/Vansh27189/Leet-Code/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Vansh27189/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 ## String
 |  |
