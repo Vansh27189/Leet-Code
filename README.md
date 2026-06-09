@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0066-plus-one](https://github.com/Vansh27189/Leet-Code/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/Vansh27189/Leet-Code/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Vansh27189/Leet-Code/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Vansh27189/Leet-Code/tree/master/1137-n-th-tribonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vansh27189/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Vansh27189/Leet-Code/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Vansh27189/Leet-Code/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
 |  |
 | ------- |
@@ -81,4 +83,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Vansh27189/Leet-Code/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Vansh27189/Leet-Code/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
