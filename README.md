@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/Vansh27189/Leet-Code/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Vansh27189/Leet-Code/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/Vansh27189/Leet-Code/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/Vansh27189/Leet-Code/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -70,8 +71,14 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vansh27189/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/Vansh27189/Leet-Code/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Vansh27189/Leet-Code/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/Vansh27189/Leet-Code/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Vansh27189/Leet-Code/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
