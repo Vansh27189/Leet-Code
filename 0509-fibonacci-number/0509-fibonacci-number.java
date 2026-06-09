@@ -6,8 +6,15 @@ class Solution {
         else if(n==1){
             return 1;
         }
-        else{
-            return fib(n-1) + fib(n-2);
+        int firstterm = 0;
+        int secondterm = 1;
+
+        for(int i = 1; i<=n;i++){
+            int thirdterm = firstterm + secondterm;
+
+            firstterm = secondterm;
+            secondterm = thirdterm;
         }
+        return firstterm;
     }
 }
