@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vansh27189/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vansh27189/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Vansh27189/Leet-Code/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Vansh27189/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Vansh27189/Leet-Code/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Vansh27189/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 ## String
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vansh27189/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Vansh27189/Leet-Code/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Vansh27189/Leet-Code/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/Vansh27189/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Vansh27189/Leet-Code/tree/master/0242-valid-anagram) |
 ## String Matching
 |  |
