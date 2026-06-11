@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0283-move-zeroes](https://github.com/Vansh27189/Leet-Code/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Vansh27189/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Vansh27189/Leet-Code/tree/master/0344-reverse-string) |
+| [0680-valid-palindrome-ii](https://github.com/Vansh27189/Leet-Code/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vansh27189/Leet-Code/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0125-valid-palindrome](https://github.com/Vansh27189/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Vansh27189/Leet-Code/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Vansh27189/Leet-Code/tree/master/0344-reverse-string) |
+| [0680-valid-palindrome-ii](https://github.com/Vansh27189/Leet-Code/tree/master/0680-valid-palindrome-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1518-water-bottles](https://github.com/Vansh27189/Leet-Code/tree/master/1518-water-bottles) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/Vansh27189/Leet-Code/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
