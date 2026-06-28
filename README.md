@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0283-move-zeroes](https://github.com/Vansh27189/Leet-Code/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Vansh27189/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Vansh27189/Leet-Code/tree/master/0485-max-consecutive-ones) |
+| [0724-find-pivot-index](https://github.com/Vansh27189/Leet-Code/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vansh27189/Leet-Code/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Vansh27189/Leet-Code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vansh27189/Leet-Code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -146,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Vansh27189/Leet-Code/tree/master/0234-palindrome-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Vansh27189/Leet-Code/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Vansh27189/Leet-Code/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
