@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/Vansh27189/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0457-circular-array-loop](https://github.com/Vansh27189/Leet-Code/tree/master/0457-circular-array-loop) |
 | [0485-max-consecutive-ones](https://github.com/Vansh27189/Leet-Code/tree/master/0485-max-consecutive-ones) |
+| [0643-maximum-average-subarray-i](https://github.com/Vansh27189/Leet-Code/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Vansh27189/Leet-Code/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Vansh27189/Leet-Code/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vansh27189/Leet-Code/tree/master/0977-squares-of-a-sorted-array) |
@@ -172,4 +173,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Vansh27189/Leet-Code/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/Vansh27189/Leet-Code/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
