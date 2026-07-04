@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/Vansh27189/Leet-Code/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Vansh27189/Leet-Code/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Vansh27189/Leet-Code/tree/master/0680-valid-palindrome-ii) |
+| [0709-to-lower-case](https://github.com/Vansh27189/Leet-Code/tree/master/0709-to-lower-case) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Vansh27189/Leet-Code/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## String Matching
 |  |
