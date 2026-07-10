@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Vansh27189/Leet-Code/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Vansh27189/Leet-Code/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Vansh27189/Leet-Code/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Vansh27189/Leet-Code/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Vansh27189/Leet-Code/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Vansh27189/Leet-Code/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vansh27189/Leet-Code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
