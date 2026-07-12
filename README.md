@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/Vansh27189/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Vansh27189/Leet-Code/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Vansh27189/Leet-Code/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Vansh27189/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Vansh27189/Leet-Code/tree/master/0409-longest-palindrome) |
 | [0457-circular-array-loop](https://github.com/Vansh27189/Leet-Code/tree/master/0457-circular-array-loop) |
 | [0904-fruit-into-baskets](https://github.com/Vansh27189/Leet-Code/tree/master/0904-fruit-into-baskets) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/Vansh27189/Leet-Code/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Vansh27189/Leet-Code/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Vansh27189/Leet-Code/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Vansh27189/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Vansh27189/Leet-Code/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Vansh27189/Leet-Code/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/Vansh27189/Leet-Code/tree/master/0680-valid-palindrome-ii) |
@@ -215,4 +217,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Vansh27189/Leet-Code/tree/master/0187-repeated-dna-sequences) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Vansh27189/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Vansh27189/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
