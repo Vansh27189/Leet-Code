@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1137-n-th-tribonacci-number](https://github.com/Vansh27189/Leet-Code/tree/master/1137-n-th-tribonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Vansh27189/Leet-Code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1518-water-bottles](https://github.com/Vansh27189/Leet-Code/tree/master/1518-water-bottles) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Vansh27189/Leet-Code/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Array
 |  |
 | ------- |
@@ -234,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Vansh27189/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Vansh27189/Leet-Code/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
