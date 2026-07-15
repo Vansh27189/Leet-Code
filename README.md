@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/Vansh27189/Leet-Code/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vansh27189/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/Vansh27189/Leet-Code/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Vansh27189/Leet-Code/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Vansh27189/Leet-Code/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Vansh27189/Leet-Code/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vansh27189/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0015-3sum](https://github.com/Vansh27189/Leet-Code/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Vansh27189/Leet-Code/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Vansh27189/Leet-Code/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Vansh27189/Leet-Code/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Vansh27189/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Vansh27189/Leet-Code/tree/master/0242-valid-anagram) |
