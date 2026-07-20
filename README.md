@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0904-fruit-into-baskets](https://github.com/Vansh27189/Leet-Code/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vansh27189/Leet-Code/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/Vansh27189/Leet-Code/tree/master/0986-interval-list-intersections) |
+| [1260-shift-2d-grid](https://github.com/Vansh27189/Leet-Code/tree/master/1260-shift-2d-grid) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Vansh27189/Leet-Code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Vansh27189/Leet-Code/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Vansh27189/Leet-Code/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Vansh27189/Leet-Code/tree/master/1260-shift-2d-grid) |
 | [1518-water-bottles](https://github.com/Vansh27189/Leet-Code/tree/master/1518-water-bottles) |
 ## Greedy
 |  |
@@ -276,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Vansh27189/Leet-Code/tree/master/0729-my-calendar-i) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Vansh27189/Leet-Code/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
