@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0605-can-place-flowers](https://github.com/Vansh27189/Leet-Code/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Vansh27189/Leet-Code/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Vansh27189/Leet-Code/tree/master/0724-find-pivot-index) |
+| [0729-my-calendar-i](https://github.com/Vansh27189/Leet-Code/tree/master/0729-my-calendar-i) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Vansh27189/Leet-Code/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0904-fruit-into-baskets](https://github.com/Vansh27189/Leet-Code/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vansh27189/Leet-Code/tree/master/0977-squares-of-a-sorted-array) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vansh27189/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Vansh27189/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Vansh27189/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
+| [0729-my-calendar-i](https://github.com/Vansh27189/Leet-Code/tree/master/0729-my-calendar-i) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Vansh27189/Leet-Code/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Vansh27189/Leet-Code/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vansh27189/Leet-Code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -262,4 +264,16 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Vansh27189/Leet-Code/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vansh27189/Leet-Code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Design
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/Vansh27189/Leet-Code/tree/master/0729-my-calendar-i) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/Vansh27189/Leet-Code/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/Vansh27189/Leet-Code/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
