@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0009-palindrome-number](https://github.com/Vansh27189/Leet-Code/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Vansh27189/Leet-Code/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Vansh27189/Leet-Code/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/Vansh27189/Leet-Code/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Vansh27189/Leet-Code/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Vansh27189/Leet-Code/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Vansh27189/Leet-Code/tree/master/0326-power-of-three) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/Vansh27189/Leet-Code/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vansh27189/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vansh27189/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Vansh27189/Leet-Code/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Vansh27189/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Vansh27189/Leet-Code/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Vansh27189/Leet-Code/tree/master/0283-move-zeroes) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0142-linked-list-cycle-ii](https://github.com/Vansh27189/Leet-Code/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Vansh27189/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vansh27189/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Vansh27189/Leet-Code/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Vansh27189/Leet-Code/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Vansh27189/Leet-Code/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Vansh27189/Leet-Code/tree/master/0283-move-zeroes) |
