@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Vansh27189/Leet-Code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1518-water-bottles](https://github.com/Vansh27189/Leet-Code/tree/master/1518-water-bottles) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vansh27189/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/Vansh27189/Leet-Code/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vansh27189/Leet-Code/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Array
 |  |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Vansh27189/Leet-Code/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vansh27189/Leet-Code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3169-count-days-without-meetings](https://github.com/Vansh27189/Leet-Code/tree/master/3169-count-days-without-meetings) |
+| [3536-maximum-product-of-two-digits](https://github.com/Vansh27189/Leet-Code/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search
 |  |
 | ------- |
