@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0457-circular-array-loop](https://github.com/Vansh27189/Leet-Code/tree/master/0457-circular-array-loop) |
 | [0485-max-consecutive-ones](https://github.com/Vansh27189/Leet-Code/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/Vansh27189/Leet-Code/tree/master/0605-can-place-flowers) |
+| [0611-valid-triangle-number](https://github.com/Vansh27189/Leet-Code/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Vansh27189/Leet-Code/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Vansh27189/Leet-Code/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/Vansh27189/Leet-Code/tree/master/0729-my-calendar-i) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/Vansh27189/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Vansh27189/Leet-Code/tree/master/0392-is-subsequence) |
 | [0457-circular-array-loop](https://github.com/Vansh27189/Leet-Code/tree/master/0457-circular-array-loop) |
+| [0611-valid-triangle-number](https://github.com/Vansh27189/Leet-Code/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/Vansh27189/Leet-Code/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Vansh27189/Leet-Code/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vansh27189/Leet-Code/tree/master/0977-squares-of-a-sorted-array) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/Vansh27189/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Vansh27189/Leet-Code/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Vansh27189/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
+| [0611-valid-triangle-number](https://github.com/Vansh27189/Leet-Code/tree/master/0611-valid-triangle-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Vansh27189/Leet-Code/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vansh27189/Leet-Code/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Vansh27189/Leet-Code/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vansh27189/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Vansh27189/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Vansh27189/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
+| [0611-valid-triangle-number](https://github.com/Vansh27189/Leet-Code/tree/master/0611-valid-triangle-number) |
 | [0729-my-calendar-i](https://github.com/Vansh27189/Leet-Code/tree/master/0729-my-calendar-i) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Vansh27189/Leet-Code/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Vansh27189/Leet-Code/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -213,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0316-remove-duplicate-letters](https://github.com/Vansh27189/Leet-Code/tree/master/0316-remove-duplicate-letters) |
 | [0409-longest-palindrome](https://github.com/Vansh27189/Leet-Code/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/Vansh27189/Leet-Code/tree/master/0605-can-place-flowers) |
+| [0611-valid-triangle-number](https://github.com/Vansh27189/Leet-Code/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/Vansh27189/Leet-Code/tree/master/0680-valid-palindrome-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vansh27189/Leet-Code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Vansh27189/Leet-Code/tree/master/1838-frequency-of-the-most-frequent-element) |
