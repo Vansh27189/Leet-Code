@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Vansh27189/Leet-Code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1518-water-bottles](https://github.com/Vansh27189/Leet-Code/tree/master/1518-water-bottles) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vansh27189/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vansh27189/Leet-Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Vansh27189/Leet-Code/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vansh27189/Leet-Code/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Array
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Vansh27189/Leet-Code/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Vansh27189/Leet-Code/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Vansh27189/Leet-Code/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vansh27189/Leet-Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## String Matching
 |  |
 | ------- |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vansh27189/Leet-Code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Vansh27189/Leet-Code/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Vansh27189/Leet-Code/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vansh27189/Leet-Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Linked List
 |  |
 | ------- |
