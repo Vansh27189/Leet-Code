@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/Vansh27189/Leet-Code/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Vansh27189/Leet-Code/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Vansh27189/Leet-Code/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/Vansh27189/Leet-Code/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/Vansh27189/Leet-Code/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/Vansh27189/Leet-Code/tree/master/0633-sum-of-square-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/Vansh27189/Leet-Code/tree/master/1137-n-th-tribonacci-number) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vansh27189/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Vansh27189/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Vansh27189/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/Vansh27189/Leet-Code/tree/master/0367-valid-perfect-square) |
 | [0611-valid-triangle-number](https://github.com/Vansh27189/Leet-Code/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/Vansh27189/Leet-Code/tree/master/0633-sum-of-square-numbers) |
 | [0729-my-calendar-i](https://github.com/Vansh27189/Leet-Code/tree/master/0729-my-calendar-i) |
