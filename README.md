@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0367-valid-perfect-square](https://github.com/Vansh27189/Leet-Code/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/Vansh27189/Leet-Code/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/Vansh27189/Leet-Code/tree/master/0633-sum-of-square-numbers) |
+| [0877-stone-game](https://github.com/Vansh27189/Leet-Code/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Vansh27189/Leet-Code/tree/master/1137-n-th-tribonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Vansh27189/Leet-Code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1518-water-bottles](https://github.com/Vansh27189/Leet-Code/tree/master/1518-water-bottles) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0724-find-pivot-index](https://github.com/Vansh27189/Leet-Code/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/Vansh27189/Leet-Code/tree/master/0729-my-calendar-i) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Vansh27189/Leet-Code/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0877-stone-game](https://github.com/Vansh27189/Leet-Code/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Vansh27189/Leet-Code/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vansh27189/Leet-Code/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/Vansh27189/Leet-Code/tree/master/0986-interval-list-intersections) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vansh27189/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Vansh27189/Leet-Code/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Vansh27189/Leet-Code/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Vansh27189/Leet-Code/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Vansh27189/Leet-Code/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
 |  |
@@ -325,4 +328,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vansh27189/Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Vansh27189/Leet-Code/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
