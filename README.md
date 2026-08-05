@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Vansh27189/Leet-Code/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Vansh27189/Leet-Code/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Vansh27189/Leet-Code/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Vansh27189/Leet-Code/tree/master/0050-powx-n) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Vansh27189/Leet-Code/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Vansh27189/Leet-Code/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Vansh27189/Leet-Code/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Vansh27189/Leet-Code/tree/master/0203-remove-linked-list-elements) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Vansh27189/Leet-Code/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Vansh27189/Leet-Code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Vansh27189/Leet-Code/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Vansh27189/Leet-Code/tree/master/0092-reverse-linked-list-ii) |
