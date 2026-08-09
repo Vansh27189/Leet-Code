@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/Vansh27189/Leet-Code/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Vansh27189/Leet-Code/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Vansh27189/Leet-Code/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Vansh27189/Leet-Code/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Vansh27189/Leet-Code/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Vansh27189/Leet-Code/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Vansh27189/Leet-Code/tree/master/0231-power-of-two) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Vansh27189/Leet-Code/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vansh27189/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Vansh27189/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Vansh27189/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
@@ -344,4 +346,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Vansh27189/Leet-Code/tree/master/0877-stone-game) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Vansh27189/Leet-Code/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
