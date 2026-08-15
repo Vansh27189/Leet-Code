@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1518-water-bottles](https://github.com/Vansh27189/Leet-Code/tree/master/1518-water-bottles) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vansh27189/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vansh27189/Leet-Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3099-harshad-number](https://github.com/Vansh27189/Leet-Code/tree/master/3099-harshad-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/Vansh27189/Leet-Code/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vansh27189/Leet-Code/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Array
