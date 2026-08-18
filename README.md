@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1346-check-if-n-and-its-double-exist](https://github.com/Vansh27189/Leet-Code/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vansh27189/Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Vansh27189/Leet-Code/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Vansh27189/Leet-Code/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vansh27189/Leet-Code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vansh27189/Leet-Code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vansh27189/Leet-Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vansh27189/Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Vansh27189/Leet-Code/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 ## Game Theory
 |  |
 | ------- |
