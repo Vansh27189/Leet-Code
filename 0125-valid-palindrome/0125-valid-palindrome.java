@@ -1,33 +1,36 @@
-class Solution {
-    public boolean isPalindrome(String s) {
-        int i = 0;
-        int j = s.length() - 1;
+    class Solution {
+        public boolean isPalindrome(String s) {
+            int i = 0;
+            int j = s.length() - 1;
 
-        while(i<j){
-            char left = s.charAt(i);
-            char right = s.charAt(j);
+            while(i<j){
+                
 
-            if(!Character.isLetterOrDigit(left)){
-                i = i + 1;
-                continue;
+                while(i<j && !Character.isLetterOrDigit(s.charAt(i))){
+                    i++;
+                    
+
+                }
+                while(i<j && !Character.isLetterOrDigit(s.charAt(j))){
+                    j--;
+                    
+
+                }
+                char left = s.charAt(i);
+                char right = s.charAt(j);
+
+                if(Character.toLowerCase(left)!=Character.toLowerCase(right)){
+                    return false;
+                }
+                i++;
+                j--;
             }
-
-            if(!Character.isLetterOrDigit(right)){
-                j = j - 1;
-                continue;
-            }
-
-            if(Character.toLowerCase(left)!= Character.toLowerCase(right)){
-                return false;
-            }
-
-            i = i + 1;
-            j = j - 1;
-
-
-
+            return true;
+            
         }
-        return true;
-
     }
-}
+    // A man, a plan, a canal: Panama
+    //       i
+    //       l
+    //                          j 
+    //                          r 
