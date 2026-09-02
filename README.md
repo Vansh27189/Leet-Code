@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3099-harshad-number](https://github.com/Vansh27189/Leet-Code/tree/master/3099-harshad-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/Vansh27189/Leet-Code/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vansh27189/Leet-Code/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Vansh27189/Leet-Code/tree/master/3875-construct-uniform-parity-array-i) |
 ## Array
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3169-count-days-without-meetings](https://github.com/Vansh27189/Leet-Code/tree/master/3169-count-days-without-meetings) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Vansh27189/Leet-Code/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Vansh27189/Leet-Code/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Vansh27189/Leet-Code/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
